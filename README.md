@@ -12,3 +12,7 @@ Thought it would be nice to have different sets of museum displays instead of th
 
 1. Unzip file in mods folder `C:\Program Files (x86)\Steam\steamapps\common\Fields of Mistria\mods`
 2. Install using [MOMI](https://github.com/Garethp/Mods-of-Mistria-Installer) (>= 0.15 ver required)
+
+## Comparison
+
+![](./images/comparions.png)
