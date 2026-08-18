@@ -2,7 +2,7 @@
 
 Adds new museum display tables for variety (differently carved for fish, flora, and insect)
 
-![](./images/thumbnail.png)
+![](./images/preview.png)
 
 ## Description
 
