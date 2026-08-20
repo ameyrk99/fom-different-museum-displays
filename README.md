@@ -16,3 +16,7 @@ Thought it would be nice to have different sets of museum displays instead of th
 ## Comparison
 
 ![](./images/comparions.png)
+
+## Optional Alt/Old Designs
+
+![](./images/optional.png)
